@@ -1,0 +1,5 @@
+{
+    "MONGO_URL":"mongodb://localhost:27017/Assignment_api",
+    "PORT":"8003",
+    "SECRET_KEY":"jjjwrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr"
+}
